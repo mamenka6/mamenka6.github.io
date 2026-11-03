@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mamenka6.culelive",
+        "sha256_cert_fingerprints": ["C7:38:48:D5:F7:FF:C4:6D:72:24:06:36:78:56:38:D7:A2:0C:13:52:52:EE:B9:D7:8F:33:8E:BB:3F:82:26:4B"]
+      }
+    }]
